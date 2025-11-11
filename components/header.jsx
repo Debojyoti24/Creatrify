@@ -41,7 +41,7 @@ export default function Header() {
         <Link href={isAuthenticated ? "/feed" : "/"} className="flex-shrink-0">
           <Image
             // src="/logo.png"
-            src="/logo01.png"
+            src="/logo.png"
             alt="Creatr Logo"
             width={96}
             height={32}
