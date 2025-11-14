@@ -73,7 +73,7 @@ export default function DashboardLayout({ children }) {
         <div className="flex items-center justify-between p-5 border-b border-slate-700">
           <Link href={"/"} className="flex-shrink-0">
             <Image
-              src="/logo.png"
+              src="/logo0.png"
               alt="Creatr Logo"
               width={96}
               height={32}
